@@ -13,7 +13,7 @@ text-miner
 The text-miner package can be easily installed via npm:
 
 ``` bash
-npm install text-miner
+npm i gix-text-miner
 ```
 
 To require the module in a project, we can use the expression
